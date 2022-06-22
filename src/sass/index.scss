@@ -2,7 +2,20 @@
 @import './example';
 
 @import './utils/variables';
+
 @import './base/body';
-// @import './base/reset-styles';
+@import './base/reset-styles';
 @import './base/base-image';
 @import './base/container';
+
+@import './components/button';
+@import './components/socials';
+
+@import './layouts/header';
+@import './layouts/menu';
+@import './layouts/about-us';
+@import './layouts/program';
+@import './layouts/reviews';
+@import './layouts/registration';
+@import './layouts/contact';
+@import './layouts/footer';
